@@ -1,2 +1,0 @@
-These are all files created with FEMM a software downloaded at: https://www.femm.info/wiki/HomePage
-Some were just experimentation and some was more series testing. For the more complicated shapes I used the rotate tool, which meant the magnet shape and direction were wrong, I did not use the data from this test, however for someone who may have more time or money may want to invest into a better system of creating a .FEM file with code to have all the rotations generated instead of hand typed one by one.

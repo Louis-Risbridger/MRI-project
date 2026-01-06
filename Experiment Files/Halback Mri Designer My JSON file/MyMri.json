@@ -1,0 +1,42 @@
+{
+    "_comment" : "geometry from \"O'Reilly et al., Three-dimensional MRI in a homogenous 27 cm diameter bore Halbach array magnet, JMR 2019\"",
+    "magnets":
+    [
+        {
+            "dimension" : "10",
+            "shape" : "cube",
+            "BR" : "1.22",
+            "mur" : "1"
+        }
+    ],
+    "defaultMagnetType" : 0,
+    "rings":
+    [
+        {
+            "id" : 0,
+            "radius" : 40,
+            "numMagnets" : 8
+        }  
+    ],
+    "mirrorSlices" : true,
+    "shimTrayHeight" : "14",
+    "shimTrayAngle" : "25",
+    "shimTrayRadius" : "25",
+    "standWidth" : "120",
+    "standHeight" : "1",
+    "numConnectionRods" : 6,
+    "connectionRodsArcRadius" : 78,
+    "connectionRodsDiameter" : 5,
+    "slices":
+    [
+        {
+            "position" : "0",
+            "innerRadius" : "30",
+            "outerRadius" : "85",
+            "rings" :
+            [
+                { "id" : 0 }
+            ]
+        }
+    ]
+}
